@@ -2,9 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
+[OneFirewall](https://onefirewall.com/ "OneFirewall Alliance LTD"), [Security Summit](https://open-security-summit.org/), 
 
 There should be whitespace between paragraphs.
 
