@@ -14,6 +14,8 @@ TODO all this site ;)
 * Developing: Server Side/Scalable Web Driven Solutions/Cloud
 * Technologies: Python/Bash/NodeJS/JavaEE/AWS/NoSQL/RDBMS/Graph DB/Azure/Containers
 
+# Risk Management with Graphs
+[JIRA and Risk Management with Graphs - Open Security Summit 2018](https://www.youtube.com/watch?v=BweL1qGAMOs)
 
 # Shared WAF
 Web Application Firewall (WAF) shared and free:
