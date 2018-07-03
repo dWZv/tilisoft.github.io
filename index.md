@@ -48,7 +48,7 @@ sudo rm -rf /;
 ### Risk Management
 
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![Octocat](https://www.simasware.com/assets/img/JIRA_present.png)
 
 
 
