@@ -46,6 +46,7 @@ sudo rm -rf /;
 ```
 
 ### Risk Management
+* Risk Management, using JIRA and Graphs
 
 
 ![Octocat](https://www.simasware.com/assets/img/JIRA_present.png)
