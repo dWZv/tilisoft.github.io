@@ -29,15 +29,15 @@ WAF_t2_micro -->> CloudFlare: HTTP 200
 CloudFlare -->> User: HTTP 200
 ```
 
-  
+
 
 # Header 1
 
-  
+
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-  
+
 
 ## Header 2
  ```bash
@@ -52,45 +52,18 @@ sudo rm -rf /;
 
 > When something is important enough, you do it even if the odds are not in your favor.
 
-  
 
-### Header 3
 
-  
+### Risk Management
 
-```js
 
-// Javascript code with syntax highlighting.
+![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-var  fun = function  lang(l) {
 
-dateformat.i18n = require('./lang/' + l)
-
-return  true;
-
-}
-
-```
-
-  
-
-```ruby
-
-# Ruby code with syntax highlighting
-
-GitHubPages::Dependencies.gems.each do |gem, version|
-
-s.add_dependency(gem, "= #{version}")
-
-end
-
-```
-
-  
 
 #### Header 4
 
-  
+
 
 * This is an unordered list following a header.
 
@@ -98,11 +71,11 @@ end
 
 * This is an unordered list following a header.
 
-  
+
 
 ##### Header 5
 
-  
+
 
 1. This is an ordered list following a header.
 
@@ -110,11 +83,11 @@ end
 
 3. This is an ordered list following a header.
 
-  
+
 
 ###### Header 6
 
-  
+
 
 | head1 | head two | three |
 
@@ -128,19 +101,19 @@ end
 
 | ok | good `zoute` drop | yumm |
 
-  
+
 
 ### There's a horizontal rule below this.
 
-  
+
 
 * * *
 
-  
+
 
 ### Here is an unordered list:
 
-  
+
 
 * Item foo
 
@@ -150,11 +123,11 @@ end
 
 * Item zip
 
-  
+
 
 ### And an ordered list:
 
-  
+
 
 1. Item one
 
@@ -164,11 +137,11 @@ end
 
 1. Item four
 
-  
+
 
 ### And a nested list:
 
-  
+
 
 - level 1 item
 
@@ -196,28 +169,28 @@ end
 
 - level 1 item
 
-  
+
 
 ### Small image
 
-  
+
 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-  
+
 
 ### Large image
 
-  
+
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-  
-  
+
+
 
 ### Definition lists can be used with HTML syntax.
 
-  
+
 
 <dl>
 
@@ -239,7 +212,7 @@ end
 
 </dl>
 
-  
+
 
 ```
 
@@ -247,7 +220,7 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 
-  
+
 
 ```
 
